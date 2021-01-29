@@ -14,10 +14,10 @@ params:
     - --no-playlist
 
 # True to enable audio conversion
-convert: false
+convert: true
 
 # True to enable advanced conversion mode
-convertAdvanced: false
+convertAdvanced: true
 
 # List of formats available in advanced conversion mode
 convertAdvancedFormats: [mp3, avi, flv, wav]
